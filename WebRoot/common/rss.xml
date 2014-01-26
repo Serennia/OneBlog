@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>channel标题</title>
+    <link>www.shlll.net</link>
+    <description>channel的描述</description>
+    <language>zh-cn</language>
+    <copyright>版权声明</copyright>
+    <pubDate>Thu, 23 Jan 2014 03:01:54 GMT</pubDate>
+    <ttl>5</ttl>
+    <item>
+      <title>新闻标题</title>
+      <description>新闻主题</description>
+      <pubDate>Thu, 23 Jan 2014 03:01:54 GMT</pubDate>
+      <author>hxliu</author>
+      <comments>注释</comments>
+      <guid isPermaLink="false" />
+    </item>
+  </channel>
+</rss>
